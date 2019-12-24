@@ -1,0 +1,264 @@
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\BuildIT\BuildASPNET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\ApplicationInsights.config
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\csc.exe
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\vbc.exe
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\BuildIT\BuildASPNET\WebbanhangOk\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\HoangRoyal\Downloads\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\HoangRoyal\Documents\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\Học Tập\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\HocTap\ASP.NET\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\NMK\Desktop\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\ApplicationInsights.config
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.Web.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojResolveAssemblyReference.cache
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+D:\Lập trình Web\ASP.NET_WebsiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb

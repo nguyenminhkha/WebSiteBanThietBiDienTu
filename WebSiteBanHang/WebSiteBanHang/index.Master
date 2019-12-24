@@ -1,0 +1,361 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="index.master.cs" Inherits="WebSiteBanHang.index" %>
+<%@ Import namespace= "System.Data"%>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<title>
+           NMK-SHOP
+		</title>
+        <link href="favicon/favicon.ico" rel="icon" type="text/html" />
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet"/>
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
+
+		<!-- Slick -->
+		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
+		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
+
+		<!-- nouislider -->
+		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css"/>
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+        <style type="text/css">
+            .auto-style1 {
+                width: 276px;
+                height: 87px;
+            }
+        </style>
+    </head>
+	<body>
+          <form runat="server">
+		<!-- HEADER -->
+		<header>
+			<!-- TOP HEADER -->
+			<div id="top-header">
+				<div class="container">
+					<ul class="header-links pull-left">
+						<li><a href="#"><i class="fa fa-phone"></i> +84827040213</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i> nguyenminhkha1204@gmail.com</a></li>
+						<li><a href="https://www.google.com/maps/place/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t/@10.9806598,106.672259,17z/data=!3m1!4b1!4m5!3m4!1s0x3174d12739bb468f:0xe2bf4f397d0aa76!8m2!3d10.9806545!4d106.6744477?hl=vi-VN"><i class="fa fa-map-marker"></i> Thủ Dầu Một</a> </li>
+					</ul>
+					<ul class="header-links pull-right">
+                        
+                        <li><a href="#"><i class="fa fa-user-o"></i> <asp:Label ID="Label1" runat="server" Text="Hi: "></asp:Label><asp:Label ID="Labeltentk" runat="server"></asp:Label></a></li>
+                        <li>
+                             <button onserverclick="btndx" style="border-radius:15px; background:#fff" runat="server" id="button1">
+                                <b><i>
+                                    <asp:Label ID="Labellogin" runat="server"></asp:Label></i> </b> 
+                              </button>
+                        </li>
+					</ul>
+				</div>
+			</div>
+			<!-- /TOP HEADER -->
+
+			<!-- MAIN HEADER -->
+			<div id="header">
+				<!-- container -->
+				<div class="container">
+					<!-- row -->
+					<div class="row">
+						<!-- LOGO -->
+						<div class="col-md-3">
+							<div class="header-logo">
+								<a href="Default.aspx" class="logo">
+									<img src="img/nmkshop1_burned.png" alt="" class="auto-style1"/>
+								</a>
+							</div>
+						</div>
+						<!-- /LOGO -->
+
+						<!-- SEARCH BAR -->
+						<div class="col-md-6">
+							<div class="header-search">
+									<select class="input-select" id="timkiem" runat="server">
+										<option>Tất cả</option>
+                                        <option value="laptop">Laptop</option>
+										<option value="tablet">Tablet</option>
+                                        <option value="dienthoai">Điện thoại</option>
+                                        <option value="camera">Máy ảnh</option>
+									</select>
+									<input class="input" placeholder="Nhập vào đây..." runat="server" id="timkiemtext"/>
+									<button onserverclick="btnsearch" runat="server" class="search-btn" id="buttonsearch">Tìm kiếm</button>
+							</div>
+						</div>
+						<!-- /SEARCH BAR -->
+
+						<!-- ACCOUNT -->
+						<div class="col-md-3 clearfix">
+							<div class="header-ctn">
+								<!-- Wishlist -->
+								<div>
+									<a href="#">
+										<i class="fa fa-heart-o"></i>
+										<span>Yêu thích</span>
+										<div class="qty">0</div>
+									</a>
+								</div>
+								<!-- /Wishlist -->
+
+								<!-- Cart -->
+								<div class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+                                        <a href="GioHangChinh.aspx">
+										<i class="fa fa-shopping-cart"></i>
+										<span>Giỏ hàng</span>
+										<div class="qty">
+                                            <asp:Label ID="Labeldem" runat="server" Text="0"></asp:Label></div>
+                                            </a>
+									</a>   
+								</div>
+								<!-- /Cart -->
+
+								<!-- Menu Toogle -->
+								<div class="menu-toggle">
+									<a href="#">
+										<i class="fa fa-bars"></i>
+										<span>Menu</span>
+									</a>
+								</div>
+								<!-- /Menu Toogle -->
+							</div>
+						</div>
+						<!-- /ACCOUNT -->
+					</div>
+					<!-- row -->
+				</div>
+				<!-- container -->
+			</div>
+			<!-- /MAIN HEADER -->
+		</header>
+		<!-- /HEADER -->
+
+		<!-- NAVIGATION -->
+		<nav id="navigation">
+			<!-- container -->
+			<div class="container">
+				<!-- responsive-nav -->
+				<div id="menu">
+					<!-- NAV -->
+					<ul>
+						<li class="active"><a href="Default.aspx">TRANG CHỦ</a></li>
+						<li><a href="GioiThieu.aspx">GIỚI THIỆU</a></li>
+                        <li><a href="#">SẢN PHẨM</a>
+                             <ul class="sub-menu">                   
+                           <%
+                            foreach(DataRow row in dt.Rows)
+                            {
+                                string maloai = row["maloai"].ToString();
+                                string tenloai = row["tenloai"].ToString();
+                                %>                              
+                                <li><a href="Default.aspx?ml=<%=maloai%>&tl=<%=tenloai%>">
+                                    <%=tenloai%></a></li>
+                           <% } %>
+                            </ul>
+                        </li>
+                        <li><a href="ChinhSachDoiTra.aspx">CHÍNH SÁCH ĐỔI TRẢ</a></li>
+                        <li><a href="LienHe.aspx">LIÊN HỆ</a></li>
+
+						
+					</ul>
+				</div>
+				<!-- /responsive-nav -->
+			</div>
+			<!-- /container -->
+		</nav>
+		<!-- /NAVIGATION -->
+
+        <!-- NOI DUNG -->
+        <table>
+          <tr>
+            <td >
+                <div style="padding:5px 205px;width:100%">
+                   <%-- BenTrai--%>
+                <div id="bentrai">
+        	    <div class="menudoc">
+           	  		<div class="thanhmenu">
+                    	<h4>DANH MỤC SẢN PHẨM</h4>
+                    </div>
+                    <div class="danhmucsanpham">
+                    	<ul>
+                            <%
+                            foreach(DataRow row in dt.Rows)
+                            {
+                                string maloai = row["maloai"].ToString();
+                                string tenloai = row["tenloai"].ToString();
+                                %>                              
+                                <li><a href="Default.aspx?ml=<%=maloai%>&tl=<%=tenloai%>">
+                                    <%=tenloai%></a></li>
+                           <% } %>
+                    	
+                        </ul>
+                    </div>
+           	  		<div class="thanhmenu">
+                    	<h4>
+                            SẢN PHẨM MỚI NHẤT</h4>
+                    </div>
+                    <div class="thanhmenu">
+                            <h4>THÔNG TIN THỊ TRƯỜNG</h4>
+                    </div>
+                    <div class="thanhmenu">
+                            <h4>LIÊN KẾT</h4>
+                           
+                    </div>
+                 </div>
+         </div>
+                   <%-- /BenTrai--%>
+
+                   <%-- NoiDung--%>
+                <div id="bengiua">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <%--NỘI DUNG--%>
+                </asp:ContentPlaceHolder>
+                 </div>
+                  
+                  </div>
+           </td>
+         </tr>
+        </table>
+        <!-- /NOI DUNG -->
+
+		<!-- NEWSLETTER -->
+		<div id="newsletter" class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="newsletter">
+							<p><strong>GỬI PHẢN HỒI</strong></p>
+							<form style="position: relative; max-width: 520px;margin: 30px auto">
+								<input style="width: 350px;margin-right: -4px;border-radius: 40px 0px 0px 40px;height: 40px" type="email" placeholder="Enter Your Email"/>
+								<button style="width: 160px; height: 40px;font-weight: 700;background: #D10024;color: #FFF;border: none;border-radius: 0px 40px 40px 0px">Gửi</button>
+							</form>
+							<ul class="newsletter-follow">
+								<li>
+									<a href="https://www.facebook.com/khanguyennmk"><i class="fa fa-facebook"></i></a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-twitter"></i></a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-instagram"></i></a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-pinterest"></i></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /NEWSLETTER -->
+
+		<!-- FOOTER -->
+		<footer id="footer">
+			<!-- top footer -->
+			<div class="section">
+				<!-- container -->
+				<div class="container">
+					<!-- row -->
+					<div class="row">
+						<div class="col-md-3 col-xs-6">
+							<div class="footer">
+								<h3 class="footer-title">VỀ CHÚNG TÔI</h3>
+								<p>Vui lòng khách đến vừa lòng khách đi.</p>
+								<ul class="footer-links">
+									<li><a href="https://www.google.com/maps/place/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t/@10.9806598,106.672259,17z/data=!3m1!4b1!4m5!3m4!1s0x3174d12739bb468f:0xe2bf4f397d0aa76!8m2!3d10.9806545!4d106.6744477?hl=vi-VN"><i class="fa fa-map-marker"></i>Thủ Dầu Một</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+84827040213</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>nguyenminhkha1204@gmail.com</a></li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-md-3 col-xs-6">
+							<div class="footer">
+								<h3 class="footer-title">THỂ LOẠI</h3>
+								<ul class="footer-links">
+									<li><a href="#">Ưu đãi lớn</a></li>
+									<li><a href="Default.aspx?ml=laptop&amp;tl=LAPTOP">Laptop</a></li>
+									<li><a href="Default.aspx?ml=phone&amp;tl=ĐIỆN THOẠI">Điện thoại</a></li>
+									<li><a href="Default.aspx?ml=camera&amp;tl=MÁY ẢNH">Máy ảnh</a></li>
+                                    <li><a href="Default.aspx?ml=tablet&amp;tl=MÁY TÍNH BẢNG">Tablet</a></li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="clearfix visible-xs"></div>
+
+						<div class="col-md-3 col-xs-6">
+							<div class="footer">
+								<h3 class="footer-title">THÔNG TIN</h3>
+								<ul class="footer-links">
+									<li><a href="#">Về chúng tôi</a></li>
+									<li><a href="LienHe.aspx">Liên hệ</a></li>
+									<li><a href="#">Chính sách bảo mật</a></li>
+									<li><a href="#">Đơn đặt hàng và trả lại</a></li>
+									<li><a href="#">Điều khoản và điều kiện</a></li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="col-md-3 col-xs-6">
+							<div class="footer">
+								<h3 class="footer-title">DỊCH VỤ</h3>
+								<ul class="footer-links">
+									<li><a href="#">Tài khoản của tôi</a></li>
+									<li><a href="GioHang.aspx">Xem giỏ hàng</a></li>
+									<li><a href="#">Danh sách yêu thích</a></li>
+									<li><a href="#">Theo dõi đơn hàng</a></li>
+									<li><a href="#">Trợ giúp</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /row -->
+				</div>
+				<!-- /container -->
+			</div>
+			<!-- /top footer -->
+
+			<!-- bottom footer -->
+			<div id="bottom-footer" class="section">
+				<div class="container">
+					<!-- row -->
+					
+						<!-- /row -->
+				</div>
+				<!-- /container -->
+			</div>
+			<!-- /bottom footer -->
+		</footer>
+		<!-- /FOOTER -->
+      </form>
+		<!-- jQuery Plugins -->
+        
+		<script src="js/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/slick.min.js"></script>
+		<script src="js/nouislider.min.js"></script>
+		<script src="js/jquery.zoom.min.js"></script>
+		<script src="js/main.js"></script>
+        <!--Start of Tawk.to Script-->
+
+<!--End of Tawk.to Script-->
+	</body>
+</html>
